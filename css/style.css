@@ -1,0 +1,10 @@
+body {
+    font-size: 14px;
+    display: flex;
+}
+
+#extraInfo{
+	width: 100px;
+	margin-left: 10px;
+	
+}
